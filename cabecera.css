@@ -1,0 +1,12 @@
+
+
+.carousel-item h1 {
+    position: absolute;
+    margin: 0;
+    color: rgb(7, 7, 7);
+   
+    left: 85%;
+    top: -500%;
+    text-align: right;
+    transform: translate(-60%, -60%);
+  }
